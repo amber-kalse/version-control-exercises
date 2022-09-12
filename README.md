@@ -2,4 +2,4 @@
 
 *This should be Italic*
 
-## This should bold 
+## This should be bold 
