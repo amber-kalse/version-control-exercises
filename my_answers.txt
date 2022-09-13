@@ -1,0 +1,3 @@
+Git status will give an overview of the files in the repository
+Git add will select the files you want to commit
+Git push origin main will push these changes into Github
